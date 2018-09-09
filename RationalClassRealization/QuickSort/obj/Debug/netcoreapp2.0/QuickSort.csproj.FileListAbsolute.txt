@@ -1,0 +1,11 @@
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.deps.json
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.runtimeconfig.json
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.runtimeconfig.dev.json
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.dll
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\bin\Debug\netcoreapp2.0\QuickSort.pdb
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.AssemblyInfo.cs
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.dll
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.pdb
+C:\Users\Сергій\source\repos\RationalClassRealization\QuickSort\obj\Debug\netcoreapp2.0\QuickSort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\RationalClassRealization\Lab_3_1\bin\Debug\Lab_3_1.exe.config
+C:\Users\Сергій\source\repos\RationalClassRealization\Lab_3_1\bin\Debug\Lab_3_1.exe
+C:\Users\Сергій\source\repos\RationalClassRealization\Lab_3_1\bin\Debug\Lab_3_1.pdb
+C:\Users\Сергій\source\repos\RationalClassRealization\Lab_3_1\obj\Debug\Lab_3_1.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\RationalClassRealization\Lab_3_1\obj\Debug\Lab_3_1.exe
+C:\Users\Сергій\source\repos\RationalClassRealization\Lab_3_1\obj\Debug\Lab_3_1.pdb
+C:\Users\Сергій\source\repos\RationalClassRealization\Lab_3_1\obj\Debug\Lab_3_1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabAMO", "LabAMO\LabAMO.csproj", "{DA6933A8-F1B5-4D0A-A484-8FCCA365DBD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "мфк", "мфк\мфк.csproj", "{4A0E91C6-C6F3-45CA-90FF-A82A86413B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6933A8-F1B5-4D0A-A484-8FCCA365DBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6933A8-F1B5-4D0A-A484-8FCCA365DBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6933A8-F1B5-4D0A-A484-8FCCA365DBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6933A8-F1B5-4D0A-A484-8FCCA365DBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0E91C6-C6F3-45CA-90FF-A82A86413B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0E91C6-C6F3-45CA-90FF-A82A86413B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0E91C6-C6F3-45CA-90FF-A82A86413B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0E91C6-C6F3-45CA-90FF-A82A86413B17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E01628A4-50FB-4D94-895E-639B88035591}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simpson", "Simpson\Simpson.csproj", "{8BA4DC67-28CB-4EFB-9C13-43F6B15A39BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equalisation", "Equalisation\Equalisation.csproj", "{F4B9E693-6B08-4518-AD88-624AFE124A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BA4DC67-28CB-4EFB-9C13-43F6B15A39BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA4DC67-28CB-4EFB-9C13-43F6B15A39BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA4DC67-28CB-4EFB-9C13-43F6B15A39BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA4DC67-28CB-4EFB-9C13-43F6B15A39BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B9E693-6B08-4518-AD88-624AFE124A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B9E693-6B08-4518-AD88-624AFE124A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B9E693-6B08-4518-AD88-624AFE124A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B9E693-6B08-4518-AD88-624AFE124A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B567C9DB-7DA3-4158-A152-7EB4BC467615}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\Simpson\Simpson\bin\Debug\Simpson.exe.config
+C:\Users\Сергій\source\repos\Simpson\Simpson\bin\Debug\Simpson.exe
+C:\Users\Сергій\source\repos\Simpson\Simpson\bin\Debug\Simpson.pdb
+C:\Users\Сергій\source\repos\Simpson\Simpson\obj\Debug\Simpson.csprojResolveAssemblyReference.cache
+C:\Users\Сергій\source\repos\Simpson\Simpson\obj\Debug\Simpson.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\Simpson\Simpson\obj\Debug\Simpson.exe
+C:\Users\Сергій\source\repos\Simpson\Simpson\obj\Debug\Simpson.pdb

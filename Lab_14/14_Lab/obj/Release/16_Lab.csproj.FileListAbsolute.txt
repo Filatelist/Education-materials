@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\Lab_14\16_Lab\bin\Release\16_Lab.exe.config
+C:\Users\Сергій\source\repos\Lab_14\16_Lab\bin\Release\16_Lab.exe
+C:\Users\Сергій\source\repos\Lab_14\16_Lab\bin\Release\16_Lab.pdb
+C:\Users\Сергій\source\repos\Lab_14\16_Lab\obj\Release\16_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\Lab_14\16_Lab\obj\Release\16_Lab.exe
+C:\Users\Сергій\source\repos\Lab_14\16_Lab\obj\Release\16_Lab.pdb
+C:\Users\Сергій\source\repos\Lab_14\16_Lab\obj\Release\16_Lab.csprojResolveAssemblyReference.cache

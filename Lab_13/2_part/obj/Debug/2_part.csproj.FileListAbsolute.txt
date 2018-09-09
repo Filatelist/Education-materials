@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\Lab_13\2_part\bin\Debug\2_part.exe.config
+C:\Users\Сергій\source\repos\Lab_13\2_part\bin\Debug\2_part.exe
+C:\Users\Сергій\source\repos\Lab_13\2_part\bin\Debug\2_part.pdb
+C:\Users\Сергій\source\repos\Lab_13\2_part\obj\Debug\2_part.csprojResolveAssemblyReference.cache
+C:\Users\Сергій\source\repos\Lab_13\2_part\obj\Debug\2_part.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\Lab_13\2_part\obj\Debug\2_part.exe
+C:\Users\Сергій\source\repos\Lab_13\2_part\obj\Debug\2_part.pdb

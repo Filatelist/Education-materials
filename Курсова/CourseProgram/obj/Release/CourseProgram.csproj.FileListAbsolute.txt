@@ -1,0 +1,10 @@
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\bin\Release\CourseProgram.exe.config
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\bin\Release\CourseProgram.exe
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\bin\Release\CourseProgram.pdb
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\obj\Release\CourseProgram.csprojResolveAssemblyReference.cache
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\obj\Release\CourseProgram.Form1.resources
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\obj\Release\CourseProgram.Properties.Resources.resources
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\obj\Release\CourseProgram.csproj.GenerateResource.cache
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\obj\Release\CourseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\obj\Release\CourseProgram.exe
+C:\Users\Сергій\source\repos\Курсова\CourseProgram\obj\Release\CourseProgram.pdb

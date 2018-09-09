@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <style type="text/css">
+    	body {
+    background: url(https://orig13.deviantart.net/64e8/f/2010/230/0/6/skies_of_blue_by_naturedrop.jpg);
+}
+
+#current-weather-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    margin: 5% auto;
+    padding: 25px 12px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: hsla(216, 100%, 60%, 0.8);
+}
+
+ul li {
+    list-style-type: none;
+    font-size: 21px;
+    text-align: left;
+    color: #FFFFFF;
+    font-family: 'Fresca', sans-serif;
+    letter-spacing: 0.2px;
+}
+
+#getWeather {
+    padding: 12px 14px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: 'Fresca', sans-serif;
+    background-color: #FFFFFF;
+    opacity: 0.8;
+    color: hsl(216, 100%, 60%);
+    transition: 0.5s;
+}
+
+#getWeather:hover {
+    background-color: hsla(216, 100%, 60%, 0.8);
+    color: #FFFFFF;
+    border: 3px solid #FFFFFF;
+    border-radius: 5px;
+}
+
+#weather-summary {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    margin: auto;
+    border-radius: 10px;
+    font-family: 'Fresca', sans-serif;
+    font-size: 20px;
+    border: 2px solid black;
+    color: #FFFFFF;
+    padding: 10px;
+    line-height: 18px;
+    opacity: 0.8;
+}
+    </style>
+</head>
+<body>
+<div id="current-weather-details">
+    <ul>
+        <li id="current-humidity">--</li>
+        <li id="current-pressure">--</li>
+        <li id="current-temperature">--</li>
+        <li id="current-wind-speed">--</li>
+    </ul>
+    <button id="getWeather" onclick="getWeather()">Get Current Weather!</button>
+</div>
+<p id="weather-summary"></p>
+<script src="script.js"></script>
+</body>
+</html>

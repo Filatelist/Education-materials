@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\Lab_13\Lab_13\bin\Debug\Lab_13.exe.config
+C:\Users\Сергій\source\repos\Lab_13\Lab_13\bin\Debug\Lab_13.exe
+C:\Users\Сергій\source\repos\Lab_13\Lab_13\bin\Debug\Lab_13.pdb
+C:\Users\Сергій\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.csprojResolveAssemblyReference.cache
+C:\Users\Сергій\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.exe
+C:\Users\Сергій\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.pdb

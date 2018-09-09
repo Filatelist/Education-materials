@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\LabAMO\LabAMO\bin\Debug\LabAMO.exe.config
+C:\Users\Сергій\source\repos\LabAMO\LabAMO\bin\Debug\LabAMO.exe
+C:\Users\Сергій\source\repos\LabAMO\LabAMO\bin\Debug\LabAMO.pdb
+C:\Users\Сергій\source\repos\LabAMO\LabAMO\obj\Debug\LabAMO.csprojResolveAssemblyReference.cache
+C:\Users\Сергій\source\repos\LabAMO\LabAMO\obj\Debug\LabAMO.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\LabAMO\LabAMO\obj\Debug\LabAMO.exe
+C:\Users\Сергій\source\repos\LabAMO\LabAMO\obj\Debug\LabAMO.pdb

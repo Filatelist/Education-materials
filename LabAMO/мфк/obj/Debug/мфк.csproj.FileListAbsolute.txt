@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\LabAMO\мфк\bin\Debug\мфк.exe.config
+C:\Users\Сергій\source\repos\LabAMO\мфк\bin\Debug\мфк.exe
+C:\Users\Сергій\source\repos\LabAMO\мфк\bin\Debug\мфк.pdb
+C:\Users\Сергій\source\repos\LabAMO\мфк\obj\Debug\мфк.csprojResolveAssemblyReference.cache
+C:\Users\Сергій\source\repos\LabAMO\мфк\obj\Debug\мфк.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\LabAMO\мфк\obj\Debug\мфк.exe
+C:\Users\Сергій\source\repos\LabAMO\мфк\obj\Debug\мфк.pdb

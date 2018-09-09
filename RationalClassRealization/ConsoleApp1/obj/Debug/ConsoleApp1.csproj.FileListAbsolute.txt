@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\RationalClassRealization\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Сергій\source\repos\RationalClassRealization\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Сергій\source\repos\RationalClassRealization\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Сергій\source\repos\RationalClassRealization\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\RationalClassRealization\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Сергій\source\repos\RationalClassRealization\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Сергій\source\repos\RationalClassRealization\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\Курсова\Курсова\bin\Debug\Курсова.exe.config
+C:\Users\Сергій\source\repos\Курсова\Курсова\bin\Debug\Курсова.exe
+C:\Users\Сергій\source\repos\Курсова\Курсова\bin\Debug\Курсова.pdb
+C:\Users\Сергій\source\repos\Курсова\Курсова\obj\Debug\Курсова.csprojResolveAssemblyReference.cache
+C:\Users\Сергій\source\repos\Курсова\Курсова\obj\Debug\Курсова.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\Курсова\Курсова\obj\Debug\Курсова.exe
+C:\Users\Сергій\source\repos\Курсова\Курсова\obj\Debug\Курсова.pdb

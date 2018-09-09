@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\RationalClassRealization\RationalClassRealization\bin\Debug\RationalClassRealization.exe.config
+C:\Users\Сергій\source\repos\RationalClassRealization\RationalClassRealization\bin\Debug\RationalClassRealization.exe
+C:\Users\Сергій\source\repos\RationalClassRealization\RationalClassRealization\bin\Debug\RationalClassRealization.pdb
+C:\Users\Сергій\source\repos\RationalClassRealization\RationalClassRealization\obj\Debug\RationalClassRealization.csprojResolveAssemblyReference.cache
+C:\Users\Сергій\source\repos\RationalClassRealization\RationalClassRealization\obj\Debug\RationalClassRealization.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\RationalClassRealization\RationalClassRealization\obj\Debug\RationalClassRealization.exe
+C:\Users\Сергій\source\repos\RationalClassRealization\RationalClassRealization\obj\Debug\RationalClassRealization.pdb

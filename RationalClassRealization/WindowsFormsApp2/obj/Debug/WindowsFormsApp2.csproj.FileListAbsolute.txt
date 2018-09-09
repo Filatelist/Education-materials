@@ -1,0 +1,10 @@
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Сергій\source\repos\RationalClassRealization\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

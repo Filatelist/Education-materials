@@ -1,0 +1,6 @@
+C:\Users\Сергій\source\repos\Simpson\Simpson\bin\Release\Simpson.exe.config
+C:\Users\Сергій\source\repos\Simpson\Simpson\bin\Release\Simpson.exe
+C:\Users\Сергій\source\repos\Simpson\Simpson\bin\Release\Simpson.pdb
+C:\Users\Сергій\source\repos\Simpson\Simpson\obj\Release\Simpson.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\Simpson\Simpson\obj\Release\Simpson.exe
+C:\Users\Сергій\source\repos\Simpson\Simpson\obj\Release\Simpson.pdb

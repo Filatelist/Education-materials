@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Video thracking</title>
+	<link rel="stylesheet" type="text/css" href="style.css"><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<style>
+	body{
+		background-image: url("axiom-pattern.png");
+		font-family: Arial;
+	}
+	.container{
+		border:1px solid black;
+		min-height: 300px;
+		max-height: 600px;
+		min-width: 150px;
+		min-height: 450px;
+
+	}
+</style>
+</head>
+<body>
+<div class="container">
+	<div class="recognitionwindow">
+		<video id="myVideo" width="400" height="300" preload autoplay loop muted></video>
+	</div>
+	<button class="startrecognition">Start</button>
+</div>
+<script>
+	
+	var colors = new tracking.ColorTracker(['magenta', 'cyan', 'yellow']);
+
+  colors.on('track', function(event) {
+    if (event.data.length === 0) {
+      // No colors were detected in this frame.
+    } else {
+      event.data.forEach(function(rect) {
+        console.log(rect.x, rect.y, rect.height, rect.width, rect.color);
+      });
+    }
+  });
+
+  tracking.track('#myVideo', colors);
+</script>
+<script type="text/javascript" src="script.js"></script>
+<script src="../build/tracking-min.js"></script>
+</body>
+</html>
